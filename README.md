@@ -9,15 +9,12 @@ Hi, I'm Jaina, a developer from Argentina. I build Minecraft plugins, desktop ap
 ## Selected work
 
 **[JiferCraft Launcher](https://github.com/JainaGam3r45/jifercraft-launcher)** *(Planning)* 
-
 A Minecraft desktop launcher built with Electron, React, and TypeScript. It handles Microsoft sign-in, version selection, and game settings like memory allocation and Java paths.
 
 **[KotlinPluginCore](https://github.com/JainaGam3r45/kotlin-plugin-core)**  *(Paused)*
-
 I got tired of copying the same setup into every PaperMC plugin, so I put it in one project. This is my Kotlin starting point, with modules, configuration helpers, and Brigadier commands already wired up.
 
 **[AinBot](https://github.com/JainaGam3r45/AinBot)**  *(Paused)*
-
 This one goes back to 2018. I picked it up again in 2024 as an educational Discord bot project. It uses JavaScript and discord.js, with a configurable command and event system.
 
 ## Contributions
