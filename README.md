@@ -8,7 +8,7 @@ Hi, I'm Jaina, a developer from Argentina. I build Minecraft plugins, desktop ap
 
 ## Selected work
 
-**[JiferCraft Launcher](https://github.com/JainaGam3r45/jifercraft-launcher)** *(Planning)*
+**[Jifer-Launcher]([https://github.com/JainaGam3r45/jifercraft-launcher](https://github.com/JainaGam3r45/Jifer-Launcher))** *(Planning)*
 
 A Minecraft desktop launcher built with Electron, React, and TypeScript. It handles Microsoft sign-in, version selection, and game settings like memory allocation and Java paths.
 
