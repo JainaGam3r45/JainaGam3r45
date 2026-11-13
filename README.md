@@ -8,9 +8,9 @@ Hi, I'm Jaina, a developer from Argentina. I build Minecraft plugins, desktop ap
 
 ## Selected work
 
-**[Jifer-Launcher](https://github.com/JainaGam3r45/Jifer-Launcher)** *(Planning)*
+**[Jifer-Launcher](https://github.com/JainaGam3r45/Jifer-Launcher)** *(In Active Development)*
 
-A Minecraft desktop launcher built with Electron, React, and TypeScript. It handles Microsoft sign-in, version selection, and game settings like memory allocation and Java paths.
+A fast Minecraft desktop launcher powered by Rust and Tauri v2. Zero bloat, automatic Java runtimes, atomic downloads, and seamless Microsoft and offline logins.
 
 **[KotlinPluginCore](https://github.com/JainaGam3r45/kotlin-plugin-core)** *(Paused)*
 
